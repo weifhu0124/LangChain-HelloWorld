@@ -2,7 +2,7 @@
 
 **An intelligent ice breaker generator powered by LangChain and social media intelligence**
 
-![Ice Breaker Demo](https://github.com/emarco177/ice_breaker/blob/main/static/demo.gif)
+![Ice Breaker Demo](https://github.com/emarco177/ice_breaker/blob/main/static/display.png)
 
 [![LangChain](https://img.shields.io/badge/LangChain-🦜🔗-brightgreen)](https://langchain.com/)
 [![Tavily](https://img.shields.io/badge/Tavily-🔍-orange)](https://app.tavily.com/home?utm_campaign=eden_marco&utm_medium=socials&utm_source=linkedin)
