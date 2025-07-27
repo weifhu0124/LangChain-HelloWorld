@@ -2,20 +2,23 @@ import os
 import requests
 from dotenv import load_dotenv
 
+from ice_breaker.constants import LINKEDIN_PROFILE
+
 load_dotenv()
 
 
-def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
+def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = True):
     """scrape information from LinkedIn profiles,
     Manually scrape the information from the LinkedIn profile"""
 
     if mock:
-        linkedin_profile_url = "https://gist.githubusercontent.com/emarco177/859ec7d786b45d8e3e3f688c6c9139d8/raw/32f3c85b9513994c572613f2c8b376b633bfc43f/eden-marco-scrapin.json"
+        linkedin_profile_url = "https://gist.githubusercontent.com/weifhu0124/a35f81fa5948ff9dfd0b71ef4bb63c1d/raw/948c445c6a14f65c0999eaa2c260f45d542e0e38/weifenhu-linkedIn.json"
         response = requests.get(
             linkedin_profile_url,
             timeout=10,
         )
     else:
+        # scrapin IO
         api_endpoint = "https://api.scrapin.io/enrichment/profile"
         params = {
             "apikey": os.environ["SCRAPIN_API_KEY"],
@@ -40,6 +43,6 @@ def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
 if __name__ == "__main__":
     print(
         scrape_linkedin_profile(
-            linkedin_profile_url="https://www.linkedin.com/in/eden-marco/"
+            linkedin_profile_url=LINKEDIN_PROFILE
         ),
     )
