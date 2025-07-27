@@ -11,6 +11,7 @@ def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = True):
     """scrape information from LinkedIn profiles,
     Manually scrape the information from the LinkedIn profile"""
 
+    # https://app.scrapin.io/lookup/persons
     if mock:
         linkedin_profile_url = "https://gist.githubusercontent.com/weifhu0124/a35f81fa5948ff9dfd0b71ef4bb63c1d/raw/948c445c6a14f65c0999eaa2c260f45d542e0e38/weifenhu-linkedIn.json"
         response = requests.get(
