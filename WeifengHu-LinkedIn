@@ -1,0 +1,338 @@
+{
+  "success": true,
+  "credits_left": 100,
+  "rate_limit_left": 100,
+  "daily_rate_limit_left": 100,
+  "minute_rate_limit_left": 499,
+  "next_minute_rate_limit_reset": "2025-07-27T00:11:55.000Z",
+  "person": {
+    "publicIdentifier": "weifeng-hu",
+    "linkedInIdentifier": "ACoAABqSOXsBxuGmAVwfGpo99dEi8gEHsomoqj8",
+    "memberIdentifier": "445790587",
+    "linkedInUrl": "https://www.linkedin.com/in/weifeng-hu",
+    "firstName": "Weifeng",
+    "lastName": "Hu",
+    "headline": "Software Development Engineer II @ Amazon Web Services | Master's in Computer Science @ UC San Diego | Bachelor's in Computer Science Engineering @ University of Michigan, Ann Arbor",
+    "location": "Seattle, Washington, United States of America",
+    "summary": "At Amazon Web Services (AWS), contributed to transforming traditional search systems into advanced AI-powered data discovery services, optimizing content accessibility for internal stakeholders. Led the technical vision that kicked off the creation of an intelligent data curation and discovery service, enhancing content accessibility and usability. Designed and implemented scalable proxy APIs for large language models (LLMs), enabling seamless interactions for over 1 million employees and 25,000+ daily active users. Enhanced system performance by reducing latency and minimizing redundant call volumes.  \n\nEarned a Master's degree in Computer Science from the University of California, San Diego, with a focus on machine learning and neural networks. Leveraged this expertise to lead impactful projects, including conversational AI interfaces and similarity model enhancements using AWS SageMaker. Fluent in Java, Python, React and Typescript (CDK). Passionate about advancing AI-driven solutions to improve efficiency and user experience for global-scale enterprises.",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQH8ywM4XzFzzQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688497501100?e=1756339200&v=beta&t=IIw4PXSaYVANRKuQPuJVAk1fWCOwcYPSUEjzsY8hSdY",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/C5616AQF6dH5lE8H-gg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1639882771830?e=1756339200&v=beta&t=b8UDbv37YQKJVhsPSYlXiTAdSbbxMC8p6YM29AKbD-8",
+    "openToWork": false,
+    "premium": true,
+    "showVerificationBadge": true,
+    "creationDate": {
+      "month": 9,
+      "year": 2015
+    },
+    "followerCount": 400,
+    "positions": {
+      "positionsCount": 6,
+      "positionHistory": [
+        {
+          "title": "Software Development Engineer II",
+          "companyName": "Amazon Web Services (AWS)",
+          "companyLocation": "Seattle, Washington, United States",
+          "description": "Tech Lead Vision: Knowledge Hub (Search & Discovery | AI/ML | Data Engineering)\n• Spearheaded the shift to an AI-powered data discovery platform, aligning leadership and delivering scalable event-driven pipelines powering three major internal Gen AI services.\n\nProject: LLM Integration with Amazon Q (Conversational AI | API Development | Non-blocking IO)\n• Designed and built APIs with non-blocking IO to interface RAG (Amazon Q) in Java for over 1M users, answering 600K questions in 3 months across internal knowledge base.\n• Developed conversational AI interfaces in Java and React, delivering real-time responses to 25K+ daily active users.\n• Optimized APIs to reduce latency and minimize unnecessary call volumes by 25%, improving system efficiency across multiple enterprise use cases.\n\nProject: Document Metadata Enricher (AWS Step Functions | Search Indexing | Scalable APIs)\n• Architected and implemented a parallelized event-driven data pipelines using AWS Step Functions with Python, automating document metadata enrichment for millions of documents.\n• Built scalable APIs supporting partial updates for 15 million documents, enhancing search index flexibility and real-time updates.\n\nProject: Data Lake + Dashboard (ETL | Data Pipelines | AWS S3 | Analytics & BI)\n• Designed and deployed a serverless ETL pipeline using AWS Glue and Spark that processed 500K+ daily user events to compute search performance metrics.\n• Built a secure AWS S3-based data lake, storing derived analytics for long-term trend analysis.\n• Developed interactive dashboards in Amazon QuickSight, enabling stakeholders to visualize and analyze key business trends effectively.",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2022
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1756339200&v=beta&t=pO9WwYIuJrggvxsOwFZ2Ix0KfOB8dw2uCPpdBD_fpZM",
+          "linkedInUrl": "https://www.linkedin.com/company/2382910/",
+          "linkedInId": "2382910"
+        },
+        {
+          "title": "Software Development Engineer",
+          "companyName": "Amazon Web Services (AWS)",
+          "companyLocation": "Seattle, Washington, United States",
+          "description": "Project: New Website (Frontend Development | Performance Optimization | React | UI/UX)\n• Led the migration from server-side rendering (SSR) to client-side rendering (CSR), improving website speed and user experience.\n• Developed and enhanced website features using React, JavaScript, and modern UI frameworks, ensuring a responsive, accessible, and mobile-friendly interface.\n• Implemented client-side performance monitoring and analytics, increasing visibility into user behavior and site performance.\n\nProject: Expanding Similarity Model (AWS SageMaker | API Development)\n• Redesigned and deployed a similarity model API, enhancing document discovery and retrieval for a diverse range of content.\n• Trained and deployed an improved document similarity model on AWS SageMaker, optimizing machine learning (ML) workflows for scalability and efficiency.\n\nProject: Bulk Action Incremental Ingestion (Distributed Systems | Scalability | API Design)\n• Designed and built a scalable, distributed ingestion system, enabling bulk document updates for enterprise customers.\n• Integrated pre-signed URLs for secure, authenticated document ingestion, improving authorization and progress tracking.\n\nOperational Excellence (AWS OpenSearch | Cost Efficiency | DevOps)\n• Optimized and scaled AWS OpenSearch clusters (Elasticsearch) both vertically and horizontally, ensuring stability while minimizing costs.\n• Improved observability, alerting, and auto-scaling strategies, leading to a more resilient and cost-effective infrastructure.\n• Recognized with the \"Smooth Operator\" award for driving system stability and operational efficiency.",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2020
+            },
+            "end": {
+              "month": 4,
+              "year": 2022
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1756339200&v=beta&t=pO9WwYIuJrggvxsOwFZ2Ix0KfOB8dw2uCPpdBD_fpZM",
+          "linkedInUrl": "https://www.linkedin.com/company/2382910/",
+          "linkedInId": "2382910"
+        },
+        {
+          "title": "Software Development Engineer Intern",
+          "companyName": "Amazon",
+          "companyLocation": "Seattle, Washington",
+          "description": "𝐏𝐫𝐨𝐣𝐞𝐜𝐭 - 𝐒𝐲𝐧𝐭𝐚𝐱 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐫\n• Developed text processing modules that optimized existing methods of obtaining syntax usage.\n• Wrote an abstract syntax tree to JSON parser that streamlined the analysis of the tree content.\n• Incorporated AWS services like DynamoDB that improved the functionalities of my code.",
+          "startEndDate": {
+            "start": {
+              "month": 6,
+              "year": 2019
+            },
+            "end": {
+              "month": 9,
+              "year": 2019
+            }
+          },
+          "contractType": "Internship",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_400_400/company-logo_400_400/0/1630640869849/amazon_logo?e=1756339200&v=beta&t=99uTaxqOdtohdgLNrr6RG4e6uSmKLjeGgD6wvEWL9ns",
+          "linkedInUrl": "https://www.linkedin.com/company/1586/",
+          "linkedInId": "1586"
+        },
+        {
+          "title": "Machine Learning Engineer Intern",
+          "companyName": "DiDi",
+          "companyLocation": "Beijing City, China",
+          "description": "• Built an XGBoost model that predicted the completion rate based on the features of ride requests.\n• Extended the model to determine the number of drivers needed to satisfy the demand in an area.",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2018
+            },
+            "end": {
+              "month": 8,
+              "year": 2018
+            }
+          },
+          "contractType": "Internship",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGs8qyo98IL_g/company-logo_400_400/company-logo_400_400/0/1713343700949/didiglobal_logo?e=1756339200&v=beta&t=6IIc80hwoqgKT6He876EuZ-CJMSzZg4tki_P5ekFHRA",
+          "linkedInUrl": "https://www.linkedin.com/company/6472832/",
+          "linkedInId": "6472832"
+        },
+        {
+          "title": "Software Development Intern",
+          "companyName": "MathWorks",
+          "companyLocation": "Greater Boston Area",
+          "description": "• Implemented new interface for more convenient data visualization.\n• Worked closely with current code base to make the application more robust.",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2017
+            },
+            "end": {
+              "month": 8,
+              "year": 2017
+            }
+          },
+          "contractType": "Internship",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSs_qwxqsJBg/company-logo_400_400/company-logo_400_400/0/1631312468202?e=1756339200&v=beta&t=M5kLs-nUoMg980j44ceOj33-G25nN2qrRyLUUZZjC7k",
+          "linkedInUrl": "https://www.linkedin.com/company/1194036/",
+          "linkedInId": "1194036"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "companyName": "Hefei Gocom Information & Technology LLC",
+          "companyLocation": "Hefei, Anhui, China",
+          "description": "• Developed an automatic testing software consisting of a TCP/IP server in C# for the company's existing railway software modules.",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2016
+            },
+            "end": {
+              "month": 8,
+              "year": 2016
+            }
+          },
+          "contractType": "Internship",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Hefei+Gocom+Information+%26+Technology+LLC"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 2,
+      "educationHistory": [
+        {
+          "degreeName": "Master's degree",
+          "fieldOfStudy": "Computer Science",
+          "linkedInUrl": "https://www.linkedin.com/company/3382/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_400_400/company-logo_400_400/0/1630633790917/university_of_california_at_san_diego_logo?e=1756339200&v=beta&t=VDjtQbJ7SRMmGDs99IEsZnnSnzf0zdSX_6iE8mz3e4g",
+          "schoolName": "UC San Diego",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2018
+            },
+            "end": {
+              "month": 1,
+              "year": 2020
+            }
+          }
+        },
+        {
+          "degreeName": "Bachelor of Science in Engineering",
+          "fieldOfStudy": "Computer Science",
+          "description": "Graduated with Summa Cum Laude\nCollege of Engineering Class of 1935 Scholarship Recipient",
+          "linkedInUrl": "https://www.linkedin.com/company/6127981/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQG_hYM6Fu3qOw/company-logo_400_400/company-logo_400_400/0/1661269572284/university_of_michigan_college_of_engineering_logo?e=1756339200&v=beta&t=ezXPcOMD-dsKHvYaxx0th0rhhnoLmzO9QNWqMDTFI-s",
+          "schoolName": "University of Michigan College of Engineering",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2014
+            },
+            "end": {
+              "month": 1,
+              "year": 2018
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Java",
+      "Python",
+      "Distributed Systems",
+      "Application Programming Interfaces (API)",
+      "Data Streaming",
+      "Batch Processing",
+      "Event Driven Programming",
+      "React.js",
+      "Amazon Q",
+      "AWS Step Functions",
+      "TypeScript",
+      "Deep Learning",
+      "Deep Neural Networks (DNN)",
+      "MATLAB",
+      "JavaScript",
+      "Internet Protocol Suite (TCP/IP)",
+      "XGBoost",
+      "AWS Kendra",
+      "JSON",
+      "Amazon Dynamodb",
+      "Data Lakes",
+      "Amazon SQS",
+      "Amazon Simple Notification Service (SNS)",
+      "Amazon Elasticsearch Service",
+      "AWS SageMaker",
+      "RESTful WebServices",
+      "Apache Spark",
+      "AWS Glue",
+      "Amazon S3",
+      "AWS Lake Formation",
+      "Amazon QuickSight",
+      "Amazon Athena",
+      "Machine Learning",
+      "Object-Oriented Programming (OOP)",
+      "Amazon Web Services (AWS)",
+      "Git",
+      "C++",
+      "C",
+      "Hadoop",
+      "Research"
+    ],
+    "languages": [],
+    "languagesWithProficiency": [],
+    "recommendations": {
+      "recommendationsCount": 0,
+      "recommendationHistory": []
+    },
+    "certifications": {
+      "certificationsCount": 1,
+      "certificationHistory": [
+        {
+          "name": "Certification of Educational Achievement in Data Lakes for Big Data",
+          "organizationName": "Dell EMC",
+          "organizationUrl": null,
+          "issuedDate": "Issued Jun 2015"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 1,
+      "testScoreHistory": [
+        {
+          "testTitle": "ACT",
+          "score": "Score: 33"
+        }
+      ]
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 1,
+      "volunteeringExperienceHistory": [
+        {
+          "organizationName": "Allendale Columbia School",
+          "role": "Volunteer",
+          "cause": "Children",
+          "period": "Feb 2013 - Mar 2013 · 2 mos"
+        }
+      ]
+    },
+    "interests": {
+      "topVoices": [],
+      "companies": [
+        {
+          "linkedinIdentifier": "1586",
+          "name": "Amazon",
+          "url": "https://www.linkedin.com/company/amazon/",
+          "slug": "amazon",
+          "followerCount": 34760607
+        },
+        {
+          "linkedinIdentifier": "2516",
+          "name": "University of Michigan",
+          "url": "https://www.linkedin.com/school/university-of-michigan/",
+          "slug": "university-of-michigan",
+          "followerCount": 781393
+        }
+      ]
+    }
+  },
+  "company": {
+    "linkedInId": "2382910",
+    "name": "Amazon Web Services (AWS)",
+    "universalName": "amazon-web-services",
+    "linkedInUrl": "https://www.linkedin.com/company/2382910",
+    "employeeCount": 139700,
+    "followerCount": 10186845,
+    "employeeCountRange": {
+      "start": 10001,
+      "end": 1
+    },
+    "websiteUrl": "http://aws.amazon.com",
+    "tagline": "Official Global LinkedIn page for Amazon Web Services (AWS).",
+    "description": "Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. The ultimate benefit of cloud computing, and AWS, is the ability to leverage a new business model and turn capital infrastructure expenses into variable costs. Businesses no longer need to plan and procure servers and other IT resources weeks or months in advance. Using AWS, businesses can take advantage of Amazon's expertise and economies of scale to access resources when their business needs them, delivering results faster and at a lower cost.\r\n\r\nToday, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. With data center locations in the U.S., Europe, Singapore, and Japan, customers across all industries are taking advantage of our low cost, elastic, open and flexible, secure platform.",
+    "industry": "IT Services and IT Consulting",
+    "phone": null,
+    "specialities": [],
+    "headquarter": {
+      "city": "Seattle",
+      "country": "US",
+      "postalCode": "98019",
+      "geographicArea": "WA",
+      "street1": "410 Terry Ave N",
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1756339200&v=beta&t=pO9WwYIuJrggvxsOwFZ2Ix0KfOB8dw2uCPpdBD_fpZM",
+    "foundedOn": {
+      "year": 2006
+    },
+    "fundingData": {
+      "numberOfFundingRounds": 1,
+      "crunchbaseOrganizationUrl": "https://www.crunchbase.com/organization/amazon-web-services?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta",
+      "lastFundingRound": {
+        "fundingType": "Grant",
+        "moneyRaised": {},
+        "fundingRoundUrl": "https://www.crunchbase.com/funding_round/amazon-web-services-grant--7c987196?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=last_funding",
+        "announcedOn": "2025-02-22T00:00:00.000Z",
+        "numberOfOtherInvestors": 0,
+        "investorsUrl": "https://www.crunchbase.com/funding_round/amazon-web-services-grant--7c987196?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_investors",
+        "leadInvestors": [
+          {
+            "name": "BIRD Foundation",
+            "url": "https://www.crunchbase.com/organization/bird-foundation?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=investor",
+            "image": "https://media.licdn.com/dms/image/sync/v2/D5638AQFiPJypctW8sg/crunchbase_investor_logo_100/crunchbase_investor_logo_100/0/1750222680618?e=1754182800&v=beta&t=av0EfCnK9vdAAIjCAVkqjGfAyaNtDmspzC9kb1Rp0us"
+          }
+        ]
+      }
+    },
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4E1BAQHDB3KboAKK3A/company-background_400/B4EZfvu1D.G4Ac-/0/1752073720696/amazon_web_services_cover?e=1754182800&v=beta&t=qW2TNJ-LAhFdRBYgq5iJ25Ej3uyYKOfjQQYDVLYMbNU"
+  }
+}
