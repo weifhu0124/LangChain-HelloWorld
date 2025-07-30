@@ -4,7 +4,8 @@
 |-----------|------------|-------------|
 | 🖥️ **Frontend** | Streamlit | Web application framework |
 | 🧠 **AI Framework** | LangChain 🦜🔗 | Orchestrates the AI pipeline |
-| 🌐 **Web Crawling** | Tavily | Enhanced profile discovery |
+| 🌐 **Web Crawler** | Tavily | Enhanced profile discovery |
+| 🔍 **Vector Store** | Pinecone | Vectir database |
 | 🤖 **LLM** | OpenAI GPT | Powers the conversation generation |
 | 🐍 **Backend** | Python 3.12+ | Core application logic |
 
