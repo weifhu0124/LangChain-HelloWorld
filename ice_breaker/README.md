@@ -41,7 +41,7 @@ _Watch Ice Breaker analyze social profiles and generate personalized conversatio
 | 🌐 **Web Search** | Tavily | Enhanced profile discovery |
 | 🤖 **LLM** | OpenAI GPT | Powers the conversation generation |
 | 📊 **Monitoring** | LangSmith | Optional tracing and debugging |
-| 🐍 **Backend** | Python 3.8+ | Core application logic |
+| 🐍 **Backend** | Python 3.12+ | Core application logic |
 
 ## 🚀 Quick Start
 
