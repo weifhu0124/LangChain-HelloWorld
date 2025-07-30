@@ -11,4 +11,4 @@
 
 ## LangChain Document Helper Demo
 
-![LangChain Demo](https://github.com/weifhu0124/LangChain-HelloWorld/blob/9fc5be9414b7a1f6bfb4d5e76f9f526cb3c7df7e/documentation_helper/static/langchain-helper.gif)
+![LangChain Demo](https://github.com/weifhu0124/LangChain-HelloWorld/blob/088d53aa302765e16993f83b9627f3b57758a096/documentation_helper/static/langchain-helper.gif)
