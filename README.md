@@ -40,3 +40,7 @@ A simple agent that performs an action based on user prompt
 ## [Vector DB](https://github.com/weifhu0124/LangChain-HelloWorld/tree/main/vector_db)
 
 A simple data pipeline that ingests data to Pinecone.
+
+## [Code Interpreter](https://github.com/weifhu0124/LangChain-HelloWorld/tree/main/code_interpreter_agent)
+
+A router agent that invokes a python agent or csv agent based on the user prompt.
