@@ -33,6 +33,18 @@ A RAG that crawls "https://python.langchain.com/" documentations and generate an
 
 ![LangChain Demo](https://github.com/weifhu0124/LangChain-HelloWorld/blob/9fc5be9414b7a1f6bfb4d5e76f9f526cb3c7df7e/documentation_helper/static/langchain-helper.gif)
 
+## [Job Search Agent](https://github.com/weifhu0124/LangChain-HelloWorld/tree/main/job_search_agent)
+
+A simple ReAct agent that searches LinkedIn for job posting
+
+| Component | Technology | Description |
+|-----------|------------|-------------|
+| 🧠 **AI Framework** | LangChain 🦜🔗 | Orchestrates the AI pipeline |
+| 🌐 **Web Search** | Tavily | Enhanced profile discovery |
+| 🤖 **LLM** | OpenAI GPT | Powers the conversation generation |
+| 📊 **Monitoring** | LangSmith | Optional tracing and debugging |
+| 🐍 **Backend** | Python 3.12+ | Core application logic |
+
 ## [ReAct Agent](https://github.com/weifhu0124/LangChain-HelloWorld/tree/main/react_agent)
 
 A simple agent that performs an action based on user prompt
